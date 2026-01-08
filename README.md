@@ -6,6 +6,8 @@ Um clone moderno do **Hole.io** desenvolvido em Rust com **macroquad** - 100% gr
 ![macroquad](https://img.shields.io/badge/macroquad-0.4-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Hole.io_Clone](src/gameplay/game.png)
+
 ## 🎮 Sobre o Jogo
 
 Controle um buraco negro que engole objetos da cidade para crescer. Em 2 minutos, seja o maior buraco (Classic) ou seja o último sobrevivente (Battle)!
